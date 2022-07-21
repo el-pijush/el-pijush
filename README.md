@@ -56,10 +56,7 @@ Languages and Tools
 ![image](https://user-images.githubusercontent.com/91858041/180195300-50eecc23-7d3f-4177-8a59-947441af9208.png)
 ![image](https://user-images.githubusercontent.com/91858041/180195349-d9c7174a-6d05-4296-8311-284b61b56436.png)
 ![image](https://user-images.githubusercontent.com/91858041/180195384-ac2dbbb3-56c7-4ee4-a2f3-7643fec99304.png)
-![image](https://user-images.githubusercontent.com/91858041/180195558-0e0fe72d-9796-4ec6-995b-06e7152e5870.png)
-
-
-
+https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 
 
 
