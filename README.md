@@ -49,12 +49,14 @@ Languages and Tools
 
 
 
-![image](https://user-images.githubusercontent.com/91858041/180194448-569a5d57-6684-4940-aa05-5aeef3b04bcb.png) HTML
+![image](https://user-images.githubusercontent.com/91858041/180194448-569a5d57-6684-4940-aa05-5aeef3b04bcb.png)
+![image](https://user-images.githubusercontent.com/91858041/180194946-71c75382-f684-4364-b280-4392a7adab03.png)
+![image](https://user-images.githubusercontent.com/91858041/180195223-99e13aad-a708-46eb-b4ff-7a419acd118c.png)
+![image](https://user-images.githubusercontent.com/91858041/180195253-e4a26599-2496-4355-a077-cf0d35437d3c.png)
+![image](https://user-images.githubusercontent.com/91858041/180195300-50eecc23-7d3f-4177-8a59-947441af9208.png)
+![image](https://user-images.githubusercontent.com/91858041/180195349-d9c7174a-6d05-4296-8311-284b61b56436.png)
+![image](https://user-images.githubusercontent.com/91858041/180195384-ac2dbbb3-56c7-4ee4-a2f3-7643fec99304.png)
 
-
-
-
-![image](https://user-images.githubusercontent.com/91858041/180194946-71c75382-f684-4364-b280-4392a7adab03.png) CSS
 
 
 
