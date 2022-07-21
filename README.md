@@ -49,7 +49,8 @@ Languages and Tools
 
 
 
-React| Node.js | Express.js | Mongo DB | JavaScript | HTML | CSS | AWS
+![image](https://user-images.githubusercontent.com/91858041/180194448-569a5d57-6684-4940-aa05-5aeef3b04bcb.png)
+
 
 
 
