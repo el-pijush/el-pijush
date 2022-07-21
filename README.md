@@ -49,7 +49,13 @@ Languages and Tools
 
 
 
-![image](https://user-images.githubusercontent.com/91858041/180194448-569a5d57-6684-4940-aa05-5aeef3b04bcb.png)
+![image](https://user-images.githubusercontent.com/91858041/180194448-569a5d57-6684-4940-aa05-5aeef3b04bcb.png) HTML
+
+
+
+
+![image](https://user-images.githubusercontent.com/91858041/180194946-71c75382-f684-4364-b280-4392a7adab03.png) CSS
+
 
 
 
